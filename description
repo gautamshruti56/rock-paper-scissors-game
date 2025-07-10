@@ -1,0 +1,27 @@
+## 🛠️ Built With
+
+- Python 3
+- `random` module
+- Basic control flow (if/else, loops)
+- String formatting
+
+---
+
+## 🚀 How to Run
+
+1. Clone this repository:
+
+2. Run the game:
+
+📌 What I Learned
+Basic game logic and control structures
+
+Using Python's built-in modules like random
+
+Enhancing user interaction through clean terminal output
+
+Structuring beginner Python projects
+
+
+---
+⭐ If you like this project, feel free to star the repo and try the game!
