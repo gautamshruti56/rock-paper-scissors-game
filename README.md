@@ -1,5 +1,14 @@
 # rock-paper-scissors-game
-Welcome to Rock, Paper, Scissors Game! Please enter your name: Shruti Hello Shruti, Let's play the game! Enter R for Rock P for Paper S for Scissors Your choice: R Computer chose: Scissors You win this round!
+Welcome to Rock, Paper, Scissors Game!
+Please enter your name: Shruti
+Hello Shruti, Let's play the game! 
+Enter 
+R for Rock 
+P for Paper 
+S for Scissors 
+Your choice: R 
+Computer chose: Scissors 
+You win this round!
 # ✊✋✌️ Rock Paper Scissors – Python Game
 
 This is a simple and fun **Rock, Paper, Scissors** game built using **Python**. It’s a beginner-friendly console game where the user plays against the computer. 🖥️🎮
